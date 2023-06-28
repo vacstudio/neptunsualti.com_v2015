@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Dalıcı Kayıt Formu</title>
+	<style type="text/css">
+		input, select {
+			display: block;
+		}
+	</style>
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body>
+	<h1>Dalıcı Kayıt Formu</h1>
+	<form action="#">
+		<h2>Kişisel Bilgileriniz</h2>
+		<input type="text" placeholder="Adınız" />
+		<input type="text" placeholder="Soyadınız" />
+		<input type="number" placeholder="T.C. Kimlik No" maxlength="11" /><span title="Dalıcıların T.C. kimlik numaraları, en yakın Sahil Güvenlik Karakolu'na bildirilmek zorunluluğu bulunmaktadır. Sizin adınıza bunu dalış merkezi yapmaktadır.">?</span>
+		<input type="datetime" placeholder="Doğum Tarihi" />
+		<select name="sex" id="">
+			<option value="">Cinsiyetiniz</option>
+			<option value="woman">Kadın</option>
+			<option value="man">Erkek</option>
+		</select>
+		<select name="blood-type" id="">
+			<option value="">Kan Grubunuz</option>
+			<option value="">0 rH +</option>
+			<option value="">A rH +</option>
+			<option value="">B rH +</option>
+			<option value="">AB rH +</option>
+			<option value="">0 rH -</option>
+			<option value="">A rH -</option>
+			<option value="">B rH -</option>
+			<option value="">AB rH -</option>
+		</select>
+		<input type="text" placeholder="Mesleğiniz" />
+		<h2>İletişim Bilgileriniz</h2>
+		<input type="tel" placeholder="Telefon Numaranız" />
+		<input type="email" placeholder="E-mail Adresiniz" />
+		<textarea name="address" id="" cols="30" rows="10" placeholder="Adresiniz"></textarea>
+		<select name="city" id="">
+			<option value="">Şehir</option>
+			<option value="istanbul">İstanbul</option>
+			<option value="ankara">Ankara</option>
+			<option value="izmir">izmir</option>
+			<option value="diger">diğer</option>
+		</select>
+		<input type="number" placeholder="Posta Kodu" maxlength="5" />
+		<p>Posta kodunuzu bilmiyorsanız öğrenmek için <a href="http://postakodu.ptt.gov.tr/" target="_blank">tıklayın</a>.</p>
+		<h2>Dalış Bilgileriniz</h2>
+		<select name="diving-knowladge" id="">
+			<option value="">Dalış Bilginiz</option>
+			<option value="0">Sertifikam Yok</option>
+			<option value="1">1* Dalıcı (yada dengi)</option>
+			<option value="2">2** Dalıcı (yada dengi)</option>
+			<option value="3">3*** Dalıcı (yada dengi)</option>
+			<option value="4">Eğitmen</option>
+		</select>
+		<select name="wetsuit-size" id="">
+			<option value="">Dalış Elbisesi Bedeni</option>
+			<option value="0">Size 0 (XXS)</option>
+			<option value="1">Size 1 (XS)</option>
+			<option value="2">Size 2 (S)</option>
+			<option value="3">Size 3 (S)</option>
+			<option value="4">Size 4 (M)</option>
+			<option value="5">Size 5 (M)</option>
+			<option value="6">Size 6 (L)</option>
+			<option value="7">Size 7 (L)</option>
+			<option value="8">Size 8 (XL)</option>
+			<option value="9">Size 9 (XXL)</option>
+		</select>
+		<select name="bcd-size" id="">
+			<option value="">BCD Bedeni</option>
+			<option value="xxs">XXS</option>
+			<option value="xs">XS</option>
+			<option value="s">S</option>
+			<option value="m">M</option>
+			<option value="l">L</option>
+			<option value="xl">XL</option>
+			<option value="xxl">XXL</option>
+		</select>
+		<select name="fin-size" id="">
+			<option value="">Palet Bedeni</option>
+			<option value="36-37">36-37</option>
+			<option value="38-39">38-39</option>
+			<option value="40-41">40-41</option>
+			<option value="42-43">42-43</option>
+			<option value="44-45">44-45</option>
+			<option value="46-47">46-47</option>
+		</select>
+		<textarea name="warning" id="" cols="30" rows="10" placeholder="Daha önce geçirmiş olduğunuz bir dalış rahatsızlığı yada bilinmesi gereken öncemli sağlık problemleri"></textarea>
+		<select name="fin-size" id="">
+			<option value="">Üyesi Olduğunuz Dalış Kulübü (Şirket Kulüpleri)</option>
+			<option value="">Üyeliğim yok</option>
+			<option value="mapfre">MAPFRE Sualtı Kulübü (MASK)</option>
+			<option value="dogan">DOĞAN HOLDİNG Sualtı Sporları Kulübü</option>
+			<option value="pegasus">PEGASUS Dalış Kulübü</option>
+			<option value="altiparmak">ALTIPARMAK GIDA Dalış Kulübü</option>
+			<option value="nestle">NESTLE Sualtı Kulübü</option>
+		</select>
+		<div class="g-recaptcha" data-sitekey="6LdeLyYTAAAAAOynykcgx2gh-yhHKG6BBmT3EAOM"></div>
+	</form>
+	<h2>Fotoğraf</h2>
+	<form action="/file-upload" class="dropzone" id="my-awesome-dropzone">
+		<input type="file" name="file" />
+	</form>
+	<h2>Ulaşım & Koanaklama Hakkında</h2>
+	<input type="checkbox" /> Kendi aracım var, gerekli durumlarda kendi aracım ile seyahat edebilirim.
+	<input type="checkbox" /> Kendi çadırım var, gerekli durumlarda kendi çadırımda konaklayabilirim.
+	<script type="text/javascript" src="/dropzone.js"></script>
+</body>
+</html>
+
+
+
+When your users submit the form where you integrated reCAPTCHA, you'll get as part of the payload a string with the name "g-recaptcha-response". In order to check whether Google has verified that user, send a POST request with these parameters:
+
+URL: https://www.google.com/recaptcha/api/siteverify
+secret (required)	:	6LdeLyYTAAAAAGGkb9pr_naM3xBLGUgHRxtukOMc
+response (required)	:	The value of 'g-recaptcha-response'.
+remoteip			:	The end user's ip address.
+
+The reCAPTCHA documentation site describes more details and advanced configurations.

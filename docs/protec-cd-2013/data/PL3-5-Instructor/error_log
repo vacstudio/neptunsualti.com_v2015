@@ -1,0 +1,1 @@
+[06-Nov-2013 08:15:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/protecc/public_html/cd1/start/auth.php on line 17
