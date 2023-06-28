@@ -2,8 +2,8 @@
  * jquery.scrollto.js 0.0.1 - https://github.com/yckart/jquery.scrollto.js
  * Scroll smooth to any element in your DOM.
  *
- * Copyright (c) 2012 Yannick Albert (http://yckart.com)
- * Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php).
+ * Copyright (c) 2012 Yannick Albert (https://yckart.com)
+ * Licensed under the MIT license (https://www.opensource.org/licenses/mit-license.php).
  * 2013/02/17
  **/
 $.scrollTo = $.fn.scrollTo = function(x, y, options){

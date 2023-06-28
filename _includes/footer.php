@@ -3,9 +3,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-sm-6 col-xs-12">
-                <p>Copyright &copy; 2012 <a href="http://neptunsualti.com" style="color:#000871;"><b>Neptün Sualtı Merkezi</b></a>, Tüm hakları saklıdır.</p>
-                <p><a href="http://www.tssf.gov.tr/merkezbilgileri.aspx?id=1000&tip=D" target="_blank">TSSF Sicil Sorgulama</a> • / • <a href="#">Dalış Kariyeri</a> • / • <a href="#">Site Kullanım Koşulları</a></p>
-                <p>Online mağazamıza göz atmayı unutmayın; <a href="http://sportifdalis.com/" target="_blank" style="color:#000871;"><b>sportifdalis.com</b></a></p>
+                <p>Copyright &copy; 2012 <a href="https://neptunsualti.com" style="color:#000871;"><b>Neptün Sualtı Merkezi</b></a>, Tüm hakları saklıdır.</p>
+                <p><a href="https://www.tssf.gov.tr/merkezbilgileri.aspx?id=1000&tip=D" target="_blank">TSSF Sicil Sorgulama</a> • / • <a href="#">Dalış Kariyeri</a> • / • <a href="#">Site Kullanım Koşulları</a></p>
+                <p>Online mağazamıza göz atmayı unutmayın; <a href="https://sportifdalis.com/" target="_blank" style="color:#000871;"><b>sportifdalis.com</b></a></p>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div id="footer-social-icons">

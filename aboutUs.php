@@ -11,9 +11,9 @@
                     <p style="text-align:justify;">Dalış merkezimizin temel sloganı <b>"Güvenli dalış iyi bir eğitimle başlar"</b> ilkesi, güvenli dalış becerilerine hakim öğrenciler yetiştirirken aynı zamanda sualtı dünyasına sorumluluklarını bilen ve uygulayan dalıcılar kazandırmaktır. Eğitime önem verdiğimiz kadar eğlenceye de önem veriyoruz. Bu sayede Türkiye'mizin en güzel dalış noktalarına ve yurtdışına düzenlediğimiz turlarla sizlere unutulmaz deneyimler kazandırmayı hedefliyoruz.</p>
                     <p style="text-align:justify;">Kurumsal firmalara, yapım şirketlerine, okulların ve üniversitelerin dalış kulüplerine dalış konusunda danışmanlık, ihtiyaçları doğrultusunda eğitim, organizasyon ve projeler gerçekleştirmekteyiz.</p>
                     <p style="text-align:right;">
-                        <a href="http://www.tssf.gov.tr/merkezbilgileri.aspx?id=1000&tip=D" target="_blank"><b>(TSSF Yetki Belge No: 747)</b></a>
+                        <a href="https://www.tssf.gov.tr/merkezbilgileri.aspx?id=1000&tip=D" target="_blank"><b>(TSSF Yetki Belge No: 747)</b></a>
                         <br />
-                        <a href="http://www.program.protecdive.com/protec-premium-center-turkey" target="_blank"><b>(ProTec Premier Centre #90686)</b></a>
+                        <a href="https://www.program.protecdive.com/protec-premium-center-turkey" target="_blank"><b>(ProTec Premier Centre #90686)</b></a>
                     </p>
                 </div>
             </div>

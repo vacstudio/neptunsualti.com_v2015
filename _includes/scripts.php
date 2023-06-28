@@ -16,7 +16,7 @@
 <script type="text/javascript" src="js/plugins/fancybox/helpers/jquery.fancybox-media.js"></script>
 <script type="text/javascript" src="js/plugins/jquery.fitvids.js"></script>
 <script type="text/javascript" src="js/plugins/jquery.cbpQTRotator.min.js"></script>
-<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+<script src="https://maps.google.com/maps/api/js?sensor=true"></script>
 <script src="js/plugins/gmaps.js"></script>
 <script type="text/javascript" src="js/plugins/retina-1.1.0.js"></script>
 <script type="text/javascript" src="js/Horrus.js"></script>
@@ -29,7 +29,7 @@
         (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
         function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
         e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-        e.src='http://www.google-analytics.com/analytics.js';
+        e.src='https://www.google-analytics.com/analytics.js';
         r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
         ga('create','UA-15651774-4', '_trackPageview');
         ga('send','pageview');

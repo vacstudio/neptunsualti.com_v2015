@@ -323,7 +323,7 @@
 
 ! function() {
     var data = [
-        { date: '2017-02-18', calendar: 'Gezi / Tur', color: 'blue', eventName: 'Sivas Buz Dalışı Turu', eventURL: 'http://www.nevcan.com/' },
+        { date: '2017-02-18', calendar: 'Gezi / Tur', color: 'blue', eventName: 'Sivas Buz Dalışı Turu', eventURL: 'https://www.nevcan.com/' },
         { date: '2017-02-19', calendar: 'Gezi / Tur', color: 'blue', eventName: 'Sivas Buz Dalışı Turu' },
         { date: '2017-03-18', calendar: 'Gezi / Tur', color: 'blue', eventName: 'Çanakkale Şehitliği Kültür Turu' },
         { date: '2017-03-19', calendar: 'Gezi / Tur', color: 'blue', eventName: 'Kabatepe Dalış Turu' },
