@@ -17,10 +17,10 @@ Notes about this source
 References:
 -----------
  
- * CSS Syntax          : http://www.w3.org/TR/2003/WD-css3-syntax-20030813/#style
- * Selectors           : http://www.w3.org/TR/css3-selectors/#selectors
- * IE Compatability    : http://msdn.microsoft.com/en-us/library/cc351024(VS.85).aspx
- * W3C Selector Tests  : http://www.w3.org/Style/CSS/Test/CSS3/Selectors/current/html/tests/
+ * CSS Syntax          : https://www.w3.org/TR/2003/WD-css3-syntax-20030813/#style
+ * Selectors           : https://www.w3.org/TR/css3-selectors/#selectors
+ * IE Compatability    : https://msdn.microsoft.com/en-us/library/cc351024(VS.85).aspx
+ * W3C Selector Tests  : https://www.w3.org/Style/CSS/Test/CSS3/Selectors/current/html/tests/
  
 */
 
@@ -528,8 +528,8 @@ References:
 	 * Version: 1.2
 	 *
 	 * URL:
-	 * http://javascript.nwbox.com/ContentLoaded/
-	 * http://javascript.nwbox.com/ContentLoaded/MIT-LICENSE
+	 * https://javascript.nwbox.com/ContentLoaded/
+	 * https://javascript.nwbox.com/ContentLoaded/MIT-LICENSE
 	 *
 	 */
 

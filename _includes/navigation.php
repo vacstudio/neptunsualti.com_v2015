@@ -1,5 +1,5 @@
 <!--[if lt IE 7]>
-    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
 
 <!-- NAV -->
@@ -12,7 +12,7 @@
                         <button data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle" type="button">
                             <i class="fa fa-bars"></i>
                         </button>
-                        <a href="http://neptunsualti.com/" target="_self" class="navbar-brand" title="Neptün Sualtı Merkezi">
+                        <a href="https://neptunsualti.com/" target="_self" class="navbar-brand" title="Neptün Sualtı Merkezi">
                             <img src="/images/logo-vertical.png" alt="logo" style="margin-top:-5px;"/>
                         </a>
                     </div>
@@ -25,7 +25,7 @@
                             <li><a href="/#iletisim" class="scrollto">İletişim</a></li>
                             <li><a href="/galeri.html">Galeri</a></li>
                             <!--
-                            <li><a href="http://sportifdalis.com/" target="_blank"><img src="images/icon-sportifdalis.png" alt="sportifdalis.com"/>Mağaza</a></li>
+                            <li><a href="https://sportifdalis.com/" target="_blank"><img src="images/icon-sportifdalis.png" alt="sportifdalis.com"/>Mağaza</a></li>
                             -->
                         </ul>
                     </div>

@@ -105,7 +105,7 @@ function getValueFromCookieString ( cookieString, property) {
 
 // SystemInfo Class
 // class to handle system check (browser, etc.)
-// Thanks to http://www.xs4all.nl/~ppk/js/detect.html for this code
+// Thanks to https://www.xs4all.nl/~ppk/js/detect.html for this code
 // TODO: Rewrite?
 /* 
 function SystemInfo() {

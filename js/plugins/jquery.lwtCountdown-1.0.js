@@ -1,6 +1,6 @@
 /*!
  * jQuery Countdown plugin v1.0
- * http://www.littlewebthings.com/projects/countdown/
+ * https://www.littlewebthings.com/projects/countdown/
  *
  * Copyright 2010, Vassilis Dourdounis
  * 

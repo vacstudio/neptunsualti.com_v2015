@@ -16,7 +16,7 @@
                 <div class="member-box-wrapper" data-uk-scrollspy="{cls:'uk-animation-slide-left', delay:1100}">
                     <div class="member-box">
                         <div class="member-img">
-                            <a href="http://nevcan.com" target="_blank"><img src="images/team/nevcanuludas.png" alt="Member Image" /></a>
+                            <a href="https://nevcan.com" target="_blank"><img src="images/team/nevcanuludas.png" alt="Member Image" /></a>
                         </div>
                         <div class="member-name">
                             <h2><b>Nevcan Uludaş</b></h2>
@@ -26,9 +26,9 @@
                         </div>
                         <div class="member-social">
                             <ul>
-                                <li><a href="http://nevcan.com/dalgic" target="_blank" title="Official Website" data-placement="top" data-rel="tooltip"><i class="fa fa-globe"></i></a></li>
+                                <li><a href="https://nevcan.com/dalgic" target="_blank" title="Official Website" data-placement="top" data-rel="tooltip"><i class="fa fa-globe"></i></a></li>
                                 <li><a href="mailto:nevcan@neptunsualti.com" title="nevcan@neptunsualti.com" data-placement="top" data-rel="tooltip"><i class="fa fa-envelope"></i></a></li>
-                                <li><a href="http://linkedin.com/in/nevcanuludas" target="_blank" title="Linkedin" data-placement="top" data-rel="tooltip"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="https://linkedin.com/in/nevcanuludas" target="_blank" title="Linkedin" data-placement="top" data-rel="tooltip"><i class="fa fa-linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -41,7 +41,7 @@
                 <div class="member-box-wrapper" data-uk-scrollspy="{cls:'uk-animation-slide-top', delay:1100}">
                     <div class="member-box">
                         <div class="member-img">
-                            <a href="http://ainos.neptunsualti.com" target="_blank" title="Ainos Neptün Sualtı Merkezi"><img src="images/team/enderozgen.png" alt="Ender Özgen" /></a>
+                            <a href="https://ainos.neptunsualti.com" target="_blank" title="Ainos Neptün Sualtı Merkezi"><img src="images/team/enderozgen.png" alt="Ender Özgen" /></a>
                         </div>
                         <div class="member-name">
                             <h2><b>Ender Özgen</b></h2>
@@ -51,9 +51,9 @@
                         </div>
                         <div class="member-social">
                             <ul>
-                                <li><a href="http://ainos.neptunsualti.com" target="_blank" title="Ainos Neptün Sualtı Merkezi" data-placement="top" data-rel="tooltip"><i class="fa fa-globe"></i></a></li>
+                                <li><a href="https://ainos.neptunsualti.com" target="_blank" title="Ainos Neptün Sualtı Merkezi" data-placement="top" data-rel="tooltip"><i class="fa fa-globe"></i></a></li>
                                 <li><a href="mailto:ender@neptunsualti.com" title="ender@neptunsualti.com" data-placement="top" data-rel="tooltip"><i class="fa fa-envelope"></i></a></li>
-                                <li><a href="http://facebook.com/ender.ozgen" target="_blank" title="Facebook" data-placement="top" data-rel="tooltip"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://facebook.com/ender.ozgen" target="_blank" title="Facebook" data-placement="top" data-rel="tooltip"><i class="fa fa-facebook"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                 <div class="member-box-wrapper" data-uk-scrollspy="{cls:'uk-animation-slide-left', delay:1100}">
                     <div class="member-box">
                         <div class="member-img">
-                            <a href="http://gue.com/gue-instructor-r%C3%A9sum%C3%A9&id=1591" target="_blank"><img src="images/team/ricardoconstantino.png" alt="Ricardo Constantino" /></a>
+                            <a href="https://gue.com/gue-instructor-r%C3%A9sum%C3%A9&id=1591" target="_blank"><img src="images/team/ricardoconstantino.png" alt="Ricardo Constantino" /></a>
                         </div>
                         <div class="member-name">
                             <h2><b>Ricardo Constantino</b></h2>
@@ -101,9 +101,9 @@
                         </div>
                         <div class="member-social">
                             <ul>
-                                <li><a href="http://gue.com/gue-instructor-r%C3%A9sum%C3%A9&id=1591" target="_blank" title="Official Website" data-placement="top" data-rel="tooltip"><i class="fa fa-globe"></i></a></li>
+                                <li><a href="https://gue.com/gue-instructor-r%C3%A9sum%C3%A9&id=1591" target="_blank" title="Official Website" data-placement="top" data-rel="tooltip"><i class="fa fa-globe"></i></a></li>
                                 <li><a href="mailto:ricardo@gue.com" title="ricardo@gue.com" data-placement="top" data-rel="tooltip"><i class="fa fa-envelope"></i></a></li>
-                                <li><a href="http://www.facebook.com/ricardo.constantino" target="_blank" title="Facebook" data-placement="top" data-rel="tooltip"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://www.facebook.com/ricardo.constantino" target="_blank" title="Facebook" data-placement="top" data-rel="tooltip"><i class="fa fa-facebook"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -153,7 +153,7 @@
                             <ul>
                                 <li><a href="https://www.facebook.com/MertcanUludas" target="_blank" title="Facebook" data-placement="top" data-rel="tooltip"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="mailto:mertcan@neptunsualti.com" title="mertcan@neptunsualti.com" data-placement="top" data-rel="tooltip"><i class="fa fa-envelope"></i></a></li>
-                                <li><a href="http://instagram.com/mertcanuludas" target="_blank" title="Instagram" data-placement="top" data-rel="tooltip"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="https://instagram.com/mertcanuludas" target="_blank" title="Instagram" data-placement="top" data-rel="tooltip"><i class="fa fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -178,7 +178,7 @@
                             <ul>
                                 <li><a href="https://www.linkedin.com/profile/view?id=177665181" target="_blank" title="Linkedin" data-placement="top" data-rel="tooltip"><i class="fa fa-linkedin"></i></a></li>
                                 <li><a href="mailto:riza@neptunsualti.com" title="riza@neptunsualti.com" data-placement="top" data-rel="tooltip"><i class="fa fa-envelope"></i></a></li>
-                                <li><a href="http://facebook.com/rizakarabinar" target="_blank" title="Facebook" data-placement="top" data-rel="tooltip"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://facebook.com/rizakarabinar" target="_blank" title="Facebook" data-placement="top" data-rel="tooltip"><i class="fa fa-facebook"></i></a></li>
                             </ul>
                         </div>
                     </div>

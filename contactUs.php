@@ -10,7 +10,7 @@
                     <p>Bize yazın. Az yada çok farketmez, ister soru sorun ister sadece selam verin :)</p>
                 </div>
             </div>
-            <form role="form" id="form" class="contactForm" method="post" action="http://webtools.vacstudio.com/contact-forms/neptunsualticom-bizeulasin.php">
+            <form role="form" id="form" class="contactForm" method="post" action="https://webtools.vacstudio.com/contact-forms/neptunsualticom-bizeulasin.php">
                 <div class="col-md-6">
                     <div class="form-group" data-uk-scrollspy="{cls:'uk-animation-slide-left', delay:500}">
                         <div class="controls">
@@ -60,7 +60,7 @@
 <section id="map-section">
     <div id="map"></div>
     <div id="subscribe" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', delay:500}">
-        <form id="sform" method="post" action="http://webtools.vacstudio.com/contact-forms/neptunsualticom-ebulten.php">
+        <form id="sform" method="post" >
             <div class="form-group">
                 <div class="controls">
                     <input type="email" class="form-control email srequiredField" placeholder="Email" name="semail">

@@ -42,8 +42,8 @@
 	Kim bilir, belki birlikte çalışabiliriz. Keyifli günler, sevgiler.
 	-Nevcan Uludaş
 	-V.A.C. Studio
-	-http://vacstudio.com
-	-http://nevcan.com
+	-https://vacstudio.com
+	-https://nevcan.com
 	
 	-->
     
